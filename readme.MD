@@ -54,3 +54,10 @@ Este projeto é mantido pela **Subsecretaria de modernização** e segue as dire
 ---
 📧 Para dúvidas e suporte, entre em contato com a equipe de dados da Subsecretaria de modernização.
 
+## Links
+**How to run Metabase in production**: https://www.metabase.com/blog/how-to-run-metabase-in-production
+
+**Running Metabase on docker**: https://www.metabase.com/docs/latest/installation-and-operation/running-metabase-on-docker
+
+
+
