@@ -44,8 +44,7 @@ O objetivo deste projeto é facilitar a instalação e configuração do Metabas
 /
 ├── docker-compose.yml  # Configuração dos serviços Docker
 ├── .env.example        # Exemplo de arquivo de variáveis de ambiente
-├── README.md           # Documentação do projeto
-└── data/               # Diretório opcional para persistência de dados
+└── README.md           # Documentação do projeto
 ```
 
 ## 📄 Licença
