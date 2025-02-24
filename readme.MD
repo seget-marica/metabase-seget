@@ -25,7 +25,8 @@ O objetivo deste projeto é facilitar a instalação e configuração do Metabas
    cd metabase-seget
    ```
 
-3. Crie um arquivo `.env` baseado no modelo `.env.example` e configure suas credenciais.
+3. Crie um arquivo `.env` baseado no modelo `.env.example` e configure suas credenciais. O metabase está na porta 3000. Caso sinta 
+   necessidade de alterar a porta, do serviço do metabase, você deverá alterar no arquivo docker-compose.yaml.
 
 4. Suba os containers com o Docker Compose:
    ```sh
